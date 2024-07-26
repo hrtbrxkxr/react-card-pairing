@@ -13,11 +13,11 @@ You have to match 2 cards that have the same by clicking each card (ex: 1-1 2-2)
     NEXT_PUBLIC_API_URL = "your API"
 ```
 2. Clone the project
-   ```bash
+```bash
    git clone https://github.com/hrtbrxkxr/react-card-pairing.git
-   ```
+```
 3. install package
- ```bash
+```bash
    npm install
 ```
 
