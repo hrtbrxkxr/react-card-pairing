@@ -9,11 +9,17 @@ You have to match 2 cards that have the same by clicking each card (ex: 1-1 2-2)
 ### Installing
 
 1. In this project used (mockapi.io) for API. If you want to create yourown global best score you can create API by yourself and change in .env and GlobalScoreService.tsx
-   code NEXT_PUBLIC_API_URL = "your API"
+```bash
+    NEXT_PUBLIC_API_URL = "your API"
+```
 2. Clone the project
-   code git clone https://github.com/hrtbrxkxr/react-card-pairing.git
+   ```bash
+   git clone https://github.com/hrtbrxkxr/react-card-pairing.git
+   ```
 3. install package
-   code npm install
+ ```bash
+   npm install
+```
 
 ## Getting Started
 
