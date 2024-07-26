@@ -6,6 +6,12 @@ This project is for learning more about coding.
 ## Description
 You have to match 2 cards that have the same by clicking each card (ex: 1-1 2-2). The number of cards is 12. By clicking 1 time the moves you use will increase by 1. You can click "New game" to restart the move and "Clear High Score" to clear your high score.
 
+## Built With
+- Next.js
+- React
+- Tailwindcss
+- Typescript
+
 ### Installing
 
 1. In this project used (mockapi.io) for API. If you want to create yourown global best score you can create API by yourself and change in .env and GlobalScoreService.tsx
