@@ -1,5 +1,20 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Card matching game (React frontend challenge)
+This project is for learning more about coding.
+
+## Description
+You have to match 2 cards that have the same by clicking each card (ex: 1-1 2-2). The number of cards is 12. By clicking 1 time the moves you use will increase by 1. You can click "New game" to restart the move and "Clear High Score" to clear your high score.
+
+### Installing
+
+1. In this project used (mockapi.io) for API. If you want to create yourown global best score you can create API by yourself and change in .env and GlobalScoreService.tsx
+   code NEXT_PUBLIC_API_URL = "your API"
+2. Clone the project
+   code git clone https://github.com/hrtbrxkxr/react-card-pairing.git
+3. install package
+   code npm install
+
 ## Getting Started
 
 First, run the development server:
@@ -20,17 +35,11 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+(https://react-card-pairing.vercel.app)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Acknowledgments
+Inspiration, code snippets, etc.
+(https://javascript.plainenglish.io/building-a-card-memory-game-in-react-e6400b226b8f)
