@@ -50,8 +50,8 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Deploy on Vercel
 
-(https://react-card-pairing.vercel.app)
+[https://react-card-pairing.vercel.app](https://react-card-pairing.vercel.app)
 
 ## Acknowledgments
 Inspiration, code snippets, etc.
-(https://javascript.plainenglish.io/building-a-card-memory-game-in-react-e6400b226b8f)
+[Build a Card Memory Game with React](https://javascript.plainenglish.io/building-a-card-memory-game-in-react-e6400b226b8f)
