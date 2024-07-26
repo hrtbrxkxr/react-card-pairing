@@ -54,4 +54,5 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Acknowledgments
 Inspiration, code snippets, etc.
+
 [Build a Card Memory Game with React](https://javascript.plainenglish.io/building-a-card-memory-game-in-react-e6400b226b8f)
